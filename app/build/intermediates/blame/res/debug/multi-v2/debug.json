@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/prathameshberde/AndroidStudioProjects/vidioplay1/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/prathameshberde/AndroidStudioProjects/vidioplay1/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "90,55",
+                        "endColumns": "47,34",
+                        "endOffsets": "133,85"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,103",
+                        "endColumns": "47,26",
+                        "endOffsets": "98,125"
+                    }
+                }
+            ]
+        }
+    ]
+}
